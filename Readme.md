@@ -42,7 +42,7 @@ You can make it easy to run `csource` by adding it to your $PATH or creating a s
 
 ## How it works
 
-The whole this is:
+The whole thing is:
 
 ```sh
 
