@@ -3,6 +3,8 @@
 
 Source env vars from a file encrypted with [ccrypt](https://ccrypt.sourceforge.net/).
 
+Only works on linux, as far as I can tell. 
+
 ## How to use
 
 Write your environment variables into a `.env` file as normal:
